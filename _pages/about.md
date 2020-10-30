@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am currently a physics PhD student at the University of California Davis, working under Prof. Emilija Pantic. Our lab specializes in argon time-projection chambers for rare-event detection experiments - in particular Darkside20k and DUNE.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I attended the Ohio State University for my undergraduate career, working with Prof. Amy Connolly developing front-end electronics for the Askaryan Radio Array (ARA). During my time at Ohio State, I received two REU internships: one at Cornell working with Professor James Engstrom on area-selective atomic layer deposition of tantalum nitride thin films, and the other at MIT Haystack observatory, where I worked with Dr. Juha Vierinen development small form-factor ionosonde antennas for ionosphere topographic mapping.
+
+After undergraduate, I spent a few gap years at MIT working under Prof. Kerstin Perez, setting up and managing labs spaces for the development of lithium-drifted silicon (SiLi) detectors for the General Antiparticle Spectrometer (GAPS). 
