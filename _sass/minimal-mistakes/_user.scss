@@ -1,0 +1,95 @@
+.div-1 {
+    background-color: #EBEBEB;
+    padding: 30px;
+    padding-top: 2px;
+    padding-bottom: 30px;
+    border-radius: 25px;
+    position: relative;
+    // z-index: -2;
+}
+
+.div-2 {
+    background-color: #97a9e4;
+    padding: 30px;
+    padding-top: 2px;
+    padding-bottom: 30px;
+    border-radius: 25px;
+}
+
+.div-3 {
+    background-color: #FBD603;
+}
+
+/* Solid border */
+hr.solid {
+    border-top: 3px solid #bbb;
+}
+
+/* Rounded border */
+hr.rounded_grn {
+    border-top: 8px solid rgb(45, 111, 225);
+    border-radius: 5px;
+}
+
+hr.rounded_blue {
+    border-top: 8px solid rgb(36, 93, 163);
+    border-radius: 5px;
+}
+
+hr.rounded_red {
+    border-top: 8px solid rgb(193, 49, 49);
+    border-radius: 5px;
+}
+
+hr.rounded_grey {
+    border-top: 8px solid rgb(178, 187, 183);
+    border-radius: 5px;
+}
+
+hr.rounded_blk {
+    border-top: 8px solid rgba(6, 6, 6, 0.221);
+    border-radius: 5px;
+}
+
+hr.rounded_grey_sm {
+    border-top: 3px solid rgb(196, 186, 186);
+    border-radius: 5px;
+}
+
+hr.rounded_blk_line {
+    border-top: 1px solid rgba(17, 16, 16, 0.753);
+}
+
+.decorated {
+    overflow: hidden;
+    text-align: left;
+
+}
+
+.decorated>span {
+    position: relative;
+    display: inline-block;
+    z-index: -1;
+
+}
+
+/* .decorated>span:before, */
+.decorated>span:after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    border-bottom: 2px solid;
+    width: 500px;
+    /* half of limiter*/
+    margin: 0 20px;
+    z-index: -1;
+}
+
+/*
+.decorated>span:before {
+    right: 100%;
+} */
+
+.decorated>span:after {
+    left: 100%;
+}
